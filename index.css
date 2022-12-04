@@ -164,7 +164,7 @@ main {
     grid-row: 2 / span 1;
     justify-content: center;
     gap: 10px;
-    line-height: 1.4;
+    line-height: 1.1;
 }
 
 #hot_pink .song_list div {
